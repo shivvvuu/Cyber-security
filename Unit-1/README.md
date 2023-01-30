@@ -27,3 +27,19 @@
 6. Promotion of Research and development in ICT's are not upto the mark.
 7. Security forces and law enforcement are not equppied to address high level tech crimes.
 8. Budgets for security purpose by the government especially for the training of gthe law enforcement , swcurity personnels's and investigator's in ICT's are less as compared to the other crimes.
+
+# Classification of cyber-crime
+
+## Cyber Stalking 
+Cyber Stalking refers to behaviour of harrasing or thretninh other person over internet.
+
+In cyber stalking internet,email,chatroom etc are used to harras pepople.
+
+### Cyber stalking generally invloves
+1. Following the person using social profile.
+2. m=Making harrasing phone calls ,messages etc.
+
+### 3-ways to conduct cyber crime
+1. Stalking through email.
+2. Stalking through internet.
+3. Stalking through computer.

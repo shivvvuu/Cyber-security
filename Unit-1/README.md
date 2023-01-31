@@ -93,3 +93,6 @@ Email spoofing is the act of sending email with a  forged sender address. It tri
     * Sender Policy Framework(SPF)
     * Domain key identifed mail(DKIM)
     * Reporting and Conformance
+
+## Email Spamming
++ Spamming is the use of electronic messaging system like email,text message etc to send or broadcast unwanted messages to the large group of people.

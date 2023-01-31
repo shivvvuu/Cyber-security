@@ -37,9 +37,59 @@ In cyber stalking internet,email,chatroom etc are used to harras pepople.
 
 ### Cyber stalking generally invloves
 1. Following the person using social profile.
-2. m=Making harrasing phone calls ,messages etc.
+2. Making harrasing phone calls ,messages etc.
 
 ### 3-ways to conduct cyber crime
 1. Stalking through email.
 2. Stalking through internet.
 3. Stalking through computer.
+
+## Hacking
+Hacking a system simply means getting unauthorized access of another person computer.
+
+Tools like "Firewall" & "Intrusion detection System" can be used to prevent system from being hacked.
+
+## Computer Virus
+1. A computer virus is a kind of malicious computer program that can replicate itself when executed.
+2. When the replication is done, this program infacts other files andf programs present in the computer.
+3. Computer virus get in through CD's, pendrive ,internet , etc.
+
+## Phishing
+Phishing attacks are the practice of  sending fraudulant communication that appears to comr from reputable source. 
+
+The goal is to steal the sensitive data .
+
+## Denial of Service Attack (DoS Attack)
+A DoS Attack is a tactic of overloading a machine or network to ake it unavailable to actual user's.
+
+Attacker can aschive this by sending the more traffic or request to the target machine that can handle , causing it to fail.
+
+## Email Spoofing
+Email spoofing is the act of sending email with a  forged sender address. It tricks the receipent into thinking that someone they know or trust has sent them email.
+
+1. A spoofed email is one that appears to originate from one source but actullay has been sent from another or fake source.
+
+### Reasons 
+1. The Email header is changed so that mail appears to come from real source.
+2. Spoofed email from friend , containing an infected link.
+3. Spoofed Email from CEO requesting company's sensitive data.
+4. Spoofed Email from bank asking for bank credentials.
+
+### Reason why to send spoofed email
+1. Hiding the sender's true identity
+    If hiding the identity is only goal,It can be easily acheived from regustering anonymous mail address to send mail.
+2. Pretend to be trusted persone
+    Scammers use spoof email to pretend to be a friend or colleage asking for money or personal information.
+3. Pretend to be trusted organizations
+    Spoofed email can come from financial institutions in order to get bank details or credit card deatils.
+4. To spoil the reputation of the sender
+    Email spoofing can be used to spoil reputation of a persone or organization.
+5. To Spread Malware
+    A spoofing email may contain an attachment that could contail a type to malware like ransomeware to harm ome's computer.
+
+### Ways to stop email spoofing
+1. To send the emails, SMTP(Simple Mail Transfer Protocol) is used. SMTP does not provied authentication machenism so it is not possible to identify the spoofed email.
+2. The email service provider needs to implement additional measures to counter email spoofing like :
+    * Sender Policy Framework(SPF)
+    * Domain key identifed mail(DKIM)
+    * Reporting and Conformance

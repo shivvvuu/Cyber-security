@@ -96,3 +96,13 @@ Email spoofing is the act of sending email with a  forged sender address. It tri
 
 ## Email Spamming
 + Spamming is the use of electronic messaging system like email,text message etc to send or broadcast unwanted messages to the large group of people.
++ SPAM is the acronym for "Sales Promotion And Markrting".
++ Spammers collect email address, mobile number from chatroom, websites, customer list or even sold to,other spammer.
++ The purpose of spamming is advertisment or to collect sensitive iformation or to spread malware,viruses,etc.
++ Unwanted spam messages eat up a tremendeous amount of storage space and can lead to emaiol system downtime.
+
+### Types of spamming 
++ Email Spamming
+* 
++ + 
+- 

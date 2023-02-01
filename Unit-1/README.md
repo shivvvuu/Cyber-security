@@ -102,7 +102,51 @@ Email spoofing is the act of sending email with a  forged sender address. It tri
 + Unwanted spam messages eat up a tremendeous amount of storage space and can lead to emaiol system downtime.
 
 ### Types of spamming 
-+ Email Spamming
-* 
-+ + 
-- 
+1. Email Spamming
+* Email Spam also called as Unsoildest Bulk Email (UBE), is the purpose of sending unwanted email to the large number of receipients.
+* Using Email spamming, spammer can also spread virues to user system.
+* It is most comman type of spamming becoiuse it does'nt cost any charges to spammer.
+
+2. Social networking Spamming 
+* Social spam is the unwanted spam content appearing on social networking platform or any webvsites with user generated content(comment,chat,etc).
+* eg:Give us a like if you love your mom.
+
+3. Mobile Phone spam
+* It is the practice of sending spam text to large number of user.
+* Despite of high number of mobile phone user, there  has not been so much phone spams, becouse there is charges of sending SMS to spammer.
+
+4. SPAM targeting search engine (SPAMDEXING)
+* Spamdexing is mix of spam and indexing.
+* It is an improper SEO(Search Engine Optimization)technique that attempt to position a malicious site high in search engain result.
+
+# Internet time theft
+* Internet time theft refers to gaining access of internet hourse of one person by another person without any permission of owner of the computer network or computer system.
+* Theft of internet hours refer to somebody else's internet hours.This ios done by gaining userid and password.
+* Section 43(h) of Information technology Act 2000 address Internet time theft. The offender is liable to pay damages not  exeeding one more the persone/victim.
+
+# SALAMI Attack/SALAMI Technique
+* A salami attack is series of minor data security attack that together results in large attack.
+* For example:A fraud activity in bank ,where an employee steals small amount of fraud from several account, can be considered as salami attack.
+* Salami attacks are difficult to trace and detect. These attacks are done for financial crimes.
+* The Key is to do such a small crimes that in a signal case it would go completely unnoticed.
+* A bank employee inserts a program into a bank servers that detucts a small amount of money (say 5 Rs a month)from the account of every customer. No account holder will probabliy notice this unauthorized debit but the employee will make good amount of money per month.
+
+# Web Jacking
+* The term web-jacking is derived from term hi-jacking.
+* In these, the hacker gains access and control over the website of another forcefully.
+* The hacker can also chnage the content or information on the site.
+* This may be done for fulfilling political objectives or for money.
+* Eg:The site of MIT(Ministry of IT and site of Bombey crime was web-jacked.
+* This occurs when someone forcefully takes control of website (by cracking password and letter chnageing it).
+* The actual owner of the website does not have any control over what appears on the website.
+* For cracking password there are two ways:
+* * Brute Force Attack
+* * Dictionory Attack
+## How does Web Jacking takes place?
+* The admin of any website has a username and password that only he only may use to upload files or content in the website.
+* Ideally the password remain secret with the admin.
+* If a hacker can take hold of username and password , it can pretend to be admin and change the content of the site.
+* There are many ways that hacker can use to know password,Password cracking is most common where a "creacking software " is used to guess the password.
+* * Brute Force Technique
+* * Dictionory attack
+* In Web Jacking , hacker get control of the other's websites and can also chnage content of website hackercan update any link of the website the new link of the website redirect the user to fake website and collect sensitive data of the victim.

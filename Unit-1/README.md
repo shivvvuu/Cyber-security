@@ -140,8 +140,8 @@ Email spoofing is the act of sending email with a  forged sender address. It tri
 * This occurs when someone forcefully takes control of website (by cracking password and letter chnageing it).
 * The actual owner of the website does not have any control over what appears on the website.
 * For cracking password there are two ways:
-* * Brute Force Attack
-* * Dictionory Attack
+  * Brute Force Attack
+  * Dictionory Attack
 ## How does Web Jacking takes place?
 * The admin of any website has a username and password that only he only may use to upload files or content in the website.
 * Ideally the password remain secret with the admin.

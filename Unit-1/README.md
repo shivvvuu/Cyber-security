@@ -147,6 +147,6 @@ Email spoofing is the act of sending email with a  forged sender address. It tri
 * Ideally the password remain secret with the admin.
 * If a hacker can take hold of username and password , it can pretend to be admin and change the content of the site.
 * There are many ways that hacker can use to know password,Password cracking is most common where a "creacking software " is used to guess the password.
-* * Brute Force Technique
-* * Dictionory attack
+  * Brute Force Technique
+  * Dictionory attack
 * In Web Jacking , hacker get control of the other's websites and can also chnage content of website hackercan update any link of the website the new link of the website redirect the user to fake website and collect sensitive data of the victim.

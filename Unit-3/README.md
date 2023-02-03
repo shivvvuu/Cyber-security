@@ -91,3 +91,52 @@ Cyber trolling is deliberate act of making random controversal comment on variou
 6. CatFishing as Harassment
 In catfishing, a person creates a fake identity on a social networking site, usually targeting a specific victim.
 Catfishing is usally done in dating websites.
+
+# Jurisdiction and Cyber Crime
+* Digital technologies have been increasing used in everyday life from relail stores to government agencies. Before stepping into "Degital India" it is important to get the policies that would deal with cyber crimes.
+* Todays reach of internet is far more than any other mode of communication. The basic nature of internet is that it is endless and hass no bounderies.
+
+### Boundaryless - This charachteristic of internet server various problems for jurisdicaton.
+
+## What is Jurisdication?
+* Jurisdiction is the authority or official power of the court to hear a case, make legal decision and judgements and resolve it.
+* Cyber Jurisdication is the power /authority of the court to solve the desputes in cyberspace.
+* currently in India we have IT act 2000, which addresses cyber crime, but this act is applicable in india.
+* As such a Single transaction may involve law of 3 Jurisdication:
+    1. The laws of state/nation Where user resides.
+    2. The laws of state/nation where service are hosted.
+    3. The laws of state/nation which applicable to the person or business with whome the transection takes place.
+* Hence the key issuess which are identified are
+    1. Which country law should apply or which court has Jurisdication.
+    2. Which are the baasics on which any nation can claim to apply its laws?
+
+## There are three kind of Jurisdication:-
+1.  Prescriptive Jurisdiction:
+    It is also called legislative Jurisdiction. It is "To prescribe". i.e to make its low applicable to person or certain circumstances. Diffrent states have diffrent laws , the action to adjusts or enforce a prescribed law.
+    The international law can impose limitation on states to prescribe the laws if there is conflict of interest with another state.
+
+2. Jusrisduction to Enforce:
+   It's the power of state to enforce perticular law i.e to punish for non-compliance with law and regulation . Every agency has thier own authority to enforce law.
+   However there may be circumstances where state has Jusrisdication to prescrib but Jurisdiction to enforce or adjudicate is absent.
+
+3. Jurisdiction to Ajudicate
+   It is the power of state to decide or adjudicate the matter which is before them.
+   State needs to decide whether or not state i party to procceding if there is the sufficient relationship between state and person.
+
+# Nature of Criminality
+* Cyber crime is easy to commit but hard to detact and locate in Jurisdictional terms, as there is no geographical boundary in the internet.
+* Cyber crime is really very complex crime and really hard to understand.
+* The hackers are always in search of any loopholes in programming system, and if they find any , they can break the security of the systm.
+* Cyber criminals can destroy websites by hacking them, spread viruses, play online fraud and can gain access to highly confidential and sensitive information.
+* Moreover they can harass someone through email, phone, coomit many other crimes on internet.
+* There is no computer that can not be hacked. Every System Every computer can be hacked ."There is nothing private in cyberspace it is end of privacy".
+* The computer system despute being hytech devices are highly vulnerable
+* The reasons of vulnerability of computer may be:-
+1. Huge data storage capacity
+2. Wider access to information
+3. Negligence of network user
+4. Non-availability or loss of evidence
+5. Jurisdictional uncertainty
+
+* Thus the cyber crime is the new emerging trend of crime which has the potential to destroy each anf every aspect of life.
+

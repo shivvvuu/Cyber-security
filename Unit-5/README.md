@@ -329,3 +329,78 @@ Antitrozon software should be run along with antivirus softeare and must be kept
 * A distributed denial of service attack is the subclass of senial of service attack.
 * A Distributed Denial of Service Attack involver multiple connection online devices/computer collective known as botnet, ehich is used to flood target site with fake traffic.
 * DDoS attacks also aims to make website or server unavailable for legitimatye users. 
+
+# Phishing
+* The term phishing refers to an attacks using mail programs to tricks web that can be usd for criminal purposes.
+* In general, hacker contuct phishing attacks by using email messages that looks to appear as through they come from a genuine source like post office, a bank or online service. Attackers can also use text messages, phone calls instant messaging.
+* The most common Example is asking user to update his accounbt or change his password for security reasones.
+* Cyber criminals know that organizatons and Internet Service Providers use anti spam detection Software and taken preventive measures such as Blocking some IP address. Then criminals keep their own adjustments. They invented new methods to byPass detaction tools.
+
+# Phishing Techniques
+1. Social Engineering Phishing Techniques
+* Social Engineering is a kind of fraud which takes the advantage of human error to gain unauthorised access or sensitive data.
+* People are more vulnerable to social engineering then technolgy attack, As it is easier to fix technical error but difficult to fix human flaws/ error.
+* Social Engineering takes the adsvantage of hume phychology as human are contolled by strong emotions such as Greed, Fear curosity etc.
+* There is 3 social engineering phishing
+    * Deceptive Phishing:
+        * In Deceptive Phishing attackers sends fake emails which mimic the emails of reputable source or business.
+        * Deceptive phishing is when a customer receives fake email from the bank asking them to click the link and check their account information. This Kind of phishing technique is also calledf as brand impersonation.
+        * The top 5 Subject lines of the emails are -"URGENT", "REQUEST", "IMPORTANT", "PAYMENT", and "ATTENTION". To get the reaction attacker send email to large number of audience.
+
+    * Spear Phishing:
+        * Spear phishing targets speific organization and individuals as opposed to random people.
+        * To make the email appear more authentic, attacker gathers information about target audience from various source such as social networking sites , bloges and forums and gain their personal as well as professional information.
+        * Because the information contained in email are highly authentic and real it is extremely difficult to detect spear phishing.
+
+    * Whaling Phishing
+        * In this phishing attack, attacker targets high profile employee such as CEO or Cheif financial officer. This attack is also call as CEO Fraud.
+
+2. Man In Middle Phishing Technique
+* In MIM technique, attecker puts himself between two communicating parties without their knowledge. All the traffic between two parties are routed to the attacker.
+* Attacker can now monitor all the information passing through the network and gain sensitive data.
+
+3. Proxy Based Phishing
+* A proxy act as intermediary between the web browser and server.
+* The main function of proxy includes :
+    * Caching website content to speed up the response time.
+    * Restricting access to some inappriate  website in the office or campus.
+* If the attacker is successful in attacking these proxies then they can easily stral username and password when forms are submitted or to hijack already authenticated sessions by using victims cookies.
+
+4. Search Engine Phishing
+* Search Engine Phishing is also known as SEO Poisoning or SEO Trozon is where attackers creates a website with the intension of stealing individual's personal information and work to bring this website a top hit on search engine.
+* Attacker then steal personal information when interact with site and steal sensitive data.
+
+# Attack on wireless network
+* Wireless network are one of the integral part of how we conduct out bussiness today. Wireless networks are not required to setup wires or hardware.
+* wireless technologies are convinient , fast and less expensive, on the other hand it is more vulnerable to attack.
+* These attacks are normally carried out get the targeted information shared over the network.
+
+## types of wireless attack
+1. Packet Sniffing
+* In wireless network the information is sent from one device to another device in the form of packets. As these packes are sent through internet it is very easy to capture them.
+* In wireless network a lot of packets are sent in clear text formate using protocols like HTTP,FTP,SMTP,etc.
+* i.e there is not encryption technique used if the attcker captures these information they can easily read them
+* Using the free available tools like wireshark, anyone can easily read data in plain text . As a result any one with malicious intension can steal password and other sensitive data.
+* Encryption data can also be capture but it wont be easy for attacker to decypher it . so it unable to use them.
+
+2. Rogue Access Point
+* A rouge access point is basically a access point added to one's network without their knowlegde.
+* It is an unauthorized access point added by any attacker or ever misinformed employee.
+* These access pont can add a very huge amount of security concers . Rouge access point can act asd a kind of backdoor for attackers.
+* Moreover rogue access point can make entire network vulnerable to DoS attack and packet capture
+* Organizations should use Network access Control and Network access Protocol or introduce authentication process to protect themself.
+
+3. Password theft
+* When we use public wifi or public network to connect to internet password stealing become very easy for attacker.
+* While using public wireless network, if user enters password and send it over the network and the site does not use SSL or TLS security, that password will br transmitted in the form of plan text without any encryption, and it can be easily read by attacker.
+
+4. Man in Middle attack
+* In man in the middle attack(MIM or MITM attack) attacker puts himself between two communicating parties without their knowledge.
+* All the traffic between two parties are routed to the attacker.
+* Because the attacker can inject himself between communicatin parties the attacker has the ability to control content of the information .
+The attacker can read or even change the content before sending (if encyption is not used) and even if encryption is used the attacker can still deny or dely communications.
+* There are two type of MIM attack
+    * Active session attack:The attacker disable client computer ability to communicate with the service. If the attack is successful, the attacker will be able to perform any opration.
+    * Passive session attack:- The attacker quitely monitor all data passing through the session. As a resuklt attacker can collect all the sensitive data passing through the network.
+* Jamming also known as interference also to disrupt the network.
+* Jamming attacks can cause DoS or either transmission or reception functionality
